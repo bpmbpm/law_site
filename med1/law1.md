@@ -279,3 +279,11 @@
 «Политика конфиденциальности» — то же, что «Политика в отношении обработки ПДн», просто под разговорным названием. Обязательна к публикации по ст. 18.1 ФЗ-152.
 
 Полный текст согласия на отдельной странице публиковать **прямо не предписано законом**, но **практически необходимо**: без доступного текста согласие не будет «информированным» по смыслу ч. 1 ст. 9 ФЗ-152. Роскомнадзор при проверке смотрит, может ли пользователь до отправки формы прочитать, на что именно он соглашается. Минимально достаточный вариант — чекбокс с развёрнутым текстом + ссылка на отдельную страницу с полным текстом согласия. [```4```](https://ic-tech.ru/blog/knowledge-base/kak-pravilno-oformit-soglasie-na-sbor-personalnyh-dannyh-na-sayte/)[```16```](https://rkn-ok.ru/baza-znanij/elektronnoe-soglasie-na-obrabotku-pdn)
+
+## 3 links
+- [Персональные данные в медицине: защита, обработка в медицинских учреждениях](https://www.zdrav.ru/articles/4293662172-zashchita-personalnyh-dannyh-24-m03-22)
+- https://medicpravo.ru/obrabotka-personalnyh-dannyh
+## 4 examples
+- [здоровые дети](https://xn--124-eddjbgbnp5daz7a6j.xn--p1ai/o-klinike/pravovaya-informatsiya/politika-konfidencialnosti)
+- https://imagestom.ru/privacypolicy.pdf
+- https://denta.ru/clinic/privacy
